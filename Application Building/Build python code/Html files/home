@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/strict.dtd">
+<html>
+<head>
+<META http-equiv=Content-Type content="text/html; charset=UTF-8">
+<title>Exported from Notepad++</title>
+<style type="text/css">
+span {
+	font-family: 'Courier New';
+	font-size: 10pt;
+	color: #000000;
+}
+.sc0 {
+}
+</style>
+</head>
+<body>
+<div style="float: left; white-space: pre; line-height: 1; background: #FFFFFF; "><span class="sc0">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;Home&lt;/title&gt;
+&lt;style&gt;
+body{
+  background-color:beige;
+ background-size:1700px 903px;
+ background-repeat:no-repeat;
+   padding:0;
+   margin:0;
+
+}
+
+.navbar
+{
+margin: 0px;
+padding:20px;
+background-color:white;
+opacity:0.6;
+color:yellow;
+font-family:'Roboto',sans-serif;
+font-style: italic;
+border-radius:20px;
+font-size:25px;
+}
+a
+{
+color:red;
+float:right;
+text-decoration:none;
+font-style:normal;
+padding-right:20px;
+}
+a:hover{
+background-color:blue;
+color:red;
+border-radius:15px;0
+font-size:30px;
+padding-left:10px;
+}
+a{
+color:red;
+float:right;
+text-decoration:none;
+font-style:normal;
+padding-right:20px;}
+p{
+font-color:"#3498eb";
+font-style:italic;
+font-size:30px;
+font-family:Bell MT
+}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body bgcolor="black"&gt;
+&lt;div class="navbar"&gt;
+&lt;a href="/upload" &gt;Predict&lt;/a&gt;
+&lt;a href="/info"&gt;Info&lt;/a&gt;
+&lt;a href="/types"&gt;Types&lt;/a&gt;
+&lt;a href="/about"&gt;Home&lt;/a&gt;
+&lt;br&gt;
+&lt;/div&gt;
+&lt;center&gt;&lt;b class="pd"&gt;&lt;font color="black" size="15" font-family="Comic Sans MS" &gt;ECG Arrhythmia classification using CNN&lt;/font&gt;&lt;/b&gt;&lt;/center&gt;
+&lt;div&gt;
+&lt;br&gt;
+&lt;center&gt;
+&lt;p&gt;&lt;font color="black" background-color="#2596be"&gt;‘Hear Arrhythmia’ is the condition of irregular heart rhythms. There are variations in the heartbeat patterns. When electrical signals that were meant to coordinate with the heartbeats falter, this condition takes place. The heart could beat faster, or slower, or any other form of irregularity is usually noticeable. Some basic fluttery feeling is harmless. It may speed up during active periods of the body and slow down during relaxing periods. The level of symptoms is important to look for because some of them can even be life-threatening. There might not be obvious signs of Arrhythmia. One might need a medical professional to figure it out, but the subtle details to look for are;
+&lt;/p&gt;
+&lt;font color="black" size="5"&gt;
+&lt;head&gt;
+&lt;style&gt;
+div.container {
+  text-align: center;
+}
+
+ol.myOL {
+  display: inline-block;
+  text-align: left;
+}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;div class="container"&gt;
+  &lt;ol class="myOL"&gt;
+    &lt;li&gt;A fluttering feeling in the chest&lt;/li&gt;
+    &lt;li&gt;The feeling of heartbeats slowing down or speeding up&lt;/li&gt;
+    &lt;li&gt;Breathlessness&lt;/li&gt;
+    &lt;li&gt;Pain in the chest area&lt;/li&gt;
+    &lt;li&gt;Heavy sweating&lt;/li&gt;
+    &lt;li&gt;Dizziness&lt;/li&gt;
+    &lt;li&gt;Fatigue&lt;/li&gt;
+    &lt;li&gt;Lightheadedness or fainting&lt;/li&gt;
+    &lt;li&gt;Anxiety&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+&lt;/body&gt;
+
+  &lt;/font&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;</span></div></body>
+</html>

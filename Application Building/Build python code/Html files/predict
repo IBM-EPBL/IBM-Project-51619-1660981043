@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/strict.dtd">
+<html>
+<head>
+<META http-equiv=Content-Type content="text/html; charset=UTF-8">
+<title>Exported from Notepad++</title>
+<style type="text/css">
+span {
+	font-family: 'Courier New';
+	font-size: 10pt;
+	color: #000000;
+}
+.sc0 {
+}
+</style>
+</head>
+<body>
+<div style="float: left; white-space: pre; line-height: 1; background: #FFFFFF; "><span class="sc0">{% extends "predict_base.html" %} {% block content %}
+
+
+
+&lt;div&gt;
+
+    &lt;form id="upload-file" method="post" enctype="multipart/form-data"&gt;
+    &lt;center&gt;    &lt;label for="imageUpload" class="upload-label"&gt;
+        &lt;/label&gt;
+        &lt;input type="file" name="file" id="imageUpload" accept=".png, .jpg, .jpeg"&gt;
+    &lt;/center&gt;&lt;/form&gt;
+
+   &lt;center&gt; &lt;div class="image-section" style="display:none;"&gt;
+        &lt;div class="img-preview"&gt;
+            &lt;div id="imagePreview"&gt;
+            &lt;/div&gt;&lt;/center&gt;
+        &lt;/div&gt;
+        &lt;center&gt;&lt;div&gt;
+            &lt;button type="button" class="btn btn-primary btn-lg " id="btn-predict"&gt;Predict!&lt;/button&gt;
+        &lt;/div&gt;&lt;/center&gt;
+    &lt;/div&gt;
+
+    &lt;div class="loader" style="display:none;"&gt;&lt;/div&gt;
+
+    &lt;h3 style="color:Black" id="result"&gt;
+        &lt;span&gt; &lt;/span&gt;
+    &lt;/h3&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+       
+
+{% endblock %}</span></div></body>
+</html>

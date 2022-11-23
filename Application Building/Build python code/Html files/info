@@ -1,0 +1,176 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/strict.dtd">
+<html>
+<head>
+<META http-equiv=Content-Type content="text/html; charset=UTF-8">
+<title>Exported from Notepad++</title>
+<style type="text/css">
+span {
+	font-family: 'Courier New';
+	font-size: 10pt;
+	color: #000000;
+}
+.sc0 {
+}
+</style>
+</head>
+<body>
+<div style="float: left; white-space: pre; line-height: 1; background: #FFFFFF; "><span class="sc0">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;Home&lt;/title&gt;
+&lt;style&gt;
+body{
+  background-color:beige;
+ background-size:1700px 903px;
+ background-repeat:no-repeat;
+   font-family: "Comic Sans MS";
+   font-size: 15;
+   padding:0;
+   margin:0;
+
+
+}
+
+.navbar
+{
+margin: 0px;
+padding:20px;
+background-color:white;
+opacity:0.6;
+color:yellow;
+font-family:'Comic Sans MS';
+font-style: italic;
+border-radius:20px;
+font-size:25px;
+}
+a
+{
+color:red;
+float:right;
+text-decoration:none;
+font-style:normal;
+padding-right:20px;
+}
+a:hover{
+background-color:blue;
+color:red;
+border-radius:15px;0
+font-size:30px;
+padding-left:10px;
+}
+a{
+color:red;
+float:right;
+text-decoration:none;
+font-style:normal;
+padding-right:20px;}
+p{
+font-color:"#3498eb";
+font-size:30px;
+font-family:Bell MT
+}
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body bgcolor="black"&gt;
+&lt;div class="navbar"&gt;
+&lt;a href="/upload" &gt;Predict&lt;/a&gt;
+&lt;a href="/info"&gt;Info&lt;/a&gt;
+&lt;a href="/types"&gt;Types&lt;/a&gt;
+&lt;a href="/about"&gt;Home&lt;/a&gt;
+&lt;br&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;center&gt;
+    &lt;b class="pd"&gt;
+        &lt;font color="black" size="15" font-family="Comic Sans MS"&gt;Diagnosis of Arrhythmia&lt;/font&gt;
+      &lt;/b&gt;&lt;/center&gt;
+    &lt;dl&gt;
+    &lt;b&gt;  &lt;dt&gt;1.Electrocardiograms (ECG)&lt;/dt&gt;
+      &lt;dd&gt;Can detect electrical activity of the heart.&lt;/dd&gt;
+      &lt;dt&gt;2.Echocardiograms&lt;/dt&gt;
+      &lt;dd&gt;Uses sound waves to produce images of the heart.&lt;/dd&gt;
+
+      &lt;dt&gt;3.Implantable loop recorder&lt;/dt&gt;
+      &lt;dd&gt; It can be implanted under the skin around the heart, to record its status.&lt;/dd&gt;
+
+
+      &lt;dt&gt;4.Event recorder&lt;/dt&gt;
+      &lt;dd&gt;It’s like a wearable ECG. It is supposed to be alerted when you have symptoms. &lt;/dd&gt;
+      &lt;dt&gt;5.Holter Monitor&lt;/dt&gt;
+      &lt;dd&gt;It’s another mobile ECG device which is temporarily used to record the activity of the heart.&lt;/dd&gt;&lt;/b&gt;
+    &lt;/dl&gt;
+    &lt;p&gt;&lt;b&gt;
+      &lt;font color="black" background-color="#2596be" size="5" font-family="Comic Sans MS" &gt;Other tests that can be used are, Stress test, where you are made to do a physical activity and the activity of your heart is recorded. Tilt-table test is used for fainting cases, where
+        you lie flat on the table while recording your heart status. EP testing and mapping can also be used where tubes with electrode ends are used inside your body to find details.
+    &lt;/p&gt;&lt;/b&gt;
+    &lt;center&gt;&lt;b class="pd"&gt;
+      &lt;br &gt;
+        &lt;font color="black" size="15" font-family="Comic Sans MS"&gt;Treatment -Medications&lt;/font&gt;
+      &lt;/b&gt;&lt;/center&gt;
+    &lt;p&gt;&lt;b&gt;
+      &lt;font color="black" background-color="#2596be" size="5" font-family="Comic Sans MS"&gt;Drugs like blood thinners are recommended by doctors as per the condition of the patient.There are two therapies to treat heart issues-&lt;/font&gt;
+    &lt;/p&gt;&lt;/b&gt;
+    &lt;dl&gt;
+      &lt;dt&gt;1.Cardioversion&lt;/dt&gt;
+      &lt;dd&gt;Shock is delivered to the heart using patches on the chest which coordinates the electrical impulses.&lt;/dd&gt;
+      &lt;dt&gt;2.Vagal maneuvers&lt;/dt&gt;
+      &lt;dd&gt;Controls the nervous system, which inturn slows down the heart beats. Used for faster heart beat conditions.&lt;/dd&gt;
+    &lt;/dl&gt;
+    &lt;center&gt;&lt;b class="pd"&gt;
+      &lt;br   /&gt;
+        &lt;font color="black" size="15" font-family="Comic Sans MS"&gt;Surgeries&lt;/font&gt;
+      &lt;/b&gt;&lt;/center&gt;
+    &lt;div&gt;
+      &lt;br&gt;
+
+    &lt;/div&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Catheter ablation: Catheters are used in the blood vessels connected to the heart.
+      &lt;li&gt;
+        Pacemaker: It is a tiny device implanted near the collarbone.
+      &lt;/li&gt;
+
+      &lt;li&gt;
+
+        Maze procedure: It involves making multiple pattern like incisions of the heart tissue to make it scar tissue which reduces the stray electrical impulses.
+      &lt;/li&gt;
+      &lt;li&gt;ICD: It is also a device implanted under the skin of the collarbone.&lt;/li&gt;
+      &lt;li&gt;Coronary bypass surgery: It improves the flow of blood to your heart.&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;br /&gt;
+  &lt;center&gt;
+
+&lt;b&gt;  &lt;font color="black" size="15" font-family="Comic Sans MS"&gt;Home Remedies&lt;/font&gt;&lt;/center&gt;  &lt;/b&gt;
+&lt;div&gt;
+  &lt;br&gt;
+&lt;/div&gt;
+&lt;ol&gt;
+  &lt;li&gt;Eat healthy&lt;/li&gt;
+  &lt;li&gt;Do not smoke or drink&lt;/li&gt;
+  &lt;li&gt;Exercise regularly, keep your weight in check&lt;/li&gt;
+  &lt;li&gt;Keep your blood pressure and cholesterol levels in check&lt;/li&gt;
+  &lt;li&gt;Keep proper habits of medication and doctor visits whenever necessary&lt;/li&gt;
+  &lt;li&gt;Do Yoga, Meditation, and other Relaxation techniques&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br /&gt;
+&lt;center&gt;
+&lt;b&gt;  &lt;font color="black" size="15" font-family="Comic Sans MS"&gt;Precautions&lt;/font&gt;&lt;/center&gt;  &lt;/b&gt;
+&lt;div&gt;
+  &lt;br&gt;
+&lt;/div&gt;
+&lt;ol&gt;
+  &lt;li&gt;Have healthy practices&lt;/li&gt;
+  &lt;li&gt;Keep note of any symptoms you’re having&lt;/li&gt;
+  &lt;li&gt;Be aware of the conditions&lt;/li&gt;
+  &lt;li&gt;Have proper doctor visits&lt;/li&gt;
+  &lt;li&gt;Make a list of all the medications and family history of Arrhythmias&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br /&gt;
+
+&lt;/style&gt;
+
+
+  &lt;/body&gt;
+
+&lt;/html&gt;</span></div></body>
+</html>
